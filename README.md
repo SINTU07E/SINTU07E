@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SINTU07E
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Ethical Hacking
+- 👀 Security Analyst/ Researchers 
+- 🌱 Trying to contribute in Cybersecurity Space 
 
 
 
